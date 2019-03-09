@@ -1,0 +1,23 @@
+--cpu Cortex-M0
+".\objects\startup_stm32f0xx.o"
+".\objects\gpio_driver.o"
+".\objects\keyboard.o"
+".\objects\platform_delay.o"
+".\objects\pwm.o"
+".\objects\ringbuffer.o"
+".\objects\systick.o"
+".\objects\wdt.o"
+".\objects\clock.o"
+".\objects\spi.o"
+".\objects\usart.o"
+".\objects\main.o"
+".\objects\crc_calc.o"
+".\objects\adc1.o"
+".\objects\stm32f0xx_gpio.o"
+".\objects\stm32f0xx_rcc.o"
+".\objects\stm32f0xx_usart.o"
+".\objects\stm32f0xx_misc.o"
+--strict --scatter ".\Objects\111.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\111.map" -o .\Objects\111.axf

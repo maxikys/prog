@@ -1,0 +1,12 @@
+.\objects\retarget.o: User\src\retarget.c
+.\objects\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\retarget.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\retarget.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\retarget.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\retarget.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\retarget.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\retarget.o: .\User\inc\stm32f0xx_conf.h
+.\objects\retarget.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+.\objects\retarget.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\retarget.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_can.h

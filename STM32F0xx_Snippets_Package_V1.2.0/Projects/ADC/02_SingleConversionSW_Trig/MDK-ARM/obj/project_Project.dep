@@ -1,0 +1,18 @@
+Dependencies for Project 'project', Target 'Project': (DO NOT MODIFY !)
+F (..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Source\Templates\arm\startup_stm32f072xb.s)(0x5489920A)(--cpu Cortex-M0 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I E:\Contact\WorkProgram\EVSE\STM32F0xx_Snippets_Package_V1.2.0\Projects\ADC\02_SingleConversionSW_Trig\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 516" --pd "STM32F072 SETA 1"--list .\lst\startup_stm32f072xb.lst --xref -o .\obj\startup_stm32f072xb.o --depend .\obj\startup_stm32f072xb.d)
+F (..\system_stm32f0xx.c)(0x55812300)(-c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\..\..\..\Libraries\CMSIS\Include -I..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include-I E:\Contact\WorkProgram\EVSE\STM32F0xx_Snippets_Package_V1.2.0\Projects\ADC\02_SingleConversionSW_Trig\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DSTM32F072 -DSTM32F072xB-o .\obj\system_stm32f0xx.o --omf_browse .\obj\system_stm32f0xx.crf --depend .\obj\system_stm32f0xx.d)
+I (..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5489920A)
+I (..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5489920A)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm0.h)(0x544528C4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x544528C4)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x544528C4)
+I (..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5489920A)
+F (..\main.c)(0x55812300)(-c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\..\..\..\Libraries\CMSIS\Include -I..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include-I E:\Contact\WorkProgram\EVSE\STM32F0xx_Snippets_Package_V1.2.0\Projects\ADC\02_SingleConversionSW_Trig\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="516" -DSTM32F072 -DSTM32F072xB-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5489920A)
+I (..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f072xb.h)(0x5489920A)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cm0.h)(0x544528C4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h)(0x544528C4)
+I (..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h)(0x544528C4)
+I (..\..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5489920A)

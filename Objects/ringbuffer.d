@@ -1,0 +1,17 @@
+.\objects\ringbuffer.o: User\src\RingBuffer.c
+.\objects\ringbuffer.o: .\User\inc\RingBuffer.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ringbuffer.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\ringbuffer.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\ringbuffer.o: .\User\inc\stm32f0xx_conf.h
+.\objects\ringbuffer.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+.\objects\ringbuffer.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\ringbuffer.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_can.h
+.\objects\ringbuffer.o: .\User\inc\gpio_driver.h
+.\objects\ringbuffer.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\objects\ringbuffer.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

@@ -1,0 +1,12 @@
+.\objects\nvic_ini.o: User\src\NVIC_ini.c
+.\objects\nvic_ini.o: .\User\inc\NVIC_ini.h
+.\objects\nvic_ini.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\nvic_ini.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\objects\nvic_ini.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\nvic_ini.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\nvic_ini.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\nvic_ini.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\nvic_ini.o: .\User\inc\stm32f0xx_conf.h
+.\objects\nvic_ini.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+.\objects\nvic_ini.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\nvic_ini.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_can.h

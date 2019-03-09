@@ -1,0 +1,15 @@
+.\objects\usart_ini.o: User\src\USART_ini.c
+.\objects\usart_ini.o: .\User\inc\USART_ini.h
+.\objects\usart_ini.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\usart_ini.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm0.h
+.\objects\usart_ini.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart_ini.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\usart_ini.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\usart_ini.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\usart_ini.o: .\User\inc\stm32f0xx_conf.h
+.\objects\usart_ini.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+.\objects\usart_ini.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\usart_ini.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_can.h
+.\objects\usart_ini.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\objects\usart_ini.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\objects\usart_ini.o: .\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h
